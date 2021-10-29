@@ -10,7 +10,8 @@ public class Main {
 
         double x=9.9;
         double y=3332.4444;
-       double z=add(x,y);
-       System.out.println(z);
+       //double z=add(x,y);
+       //System.out.println(z);
+        System.out.println(add(x,y));
     }
 }
